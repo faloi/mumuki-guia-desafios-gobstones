@@ -1,0 +1,1 @@
+Conviene crear un procedimiento auxiliar que se encargue de procesar una sola celda. Una vez que lo tengas funcionando, sólo te resta recorrer todo el tablero ejecutando tu procedimiento :wink:
