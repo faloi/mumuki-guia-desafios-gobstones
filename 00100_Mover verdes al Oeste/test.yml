@@ -1,7 +1,18 @@
 subject: MoverVerdesAlOeste
 
 examples:
- - initial_board: |
+ - title: Tablero vacío
+   initial_board: |
+     GBB/1.0
+     size 4 4
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 4 4
+     head 0 0
+
+ - title: Tablero con bolitas verdes
+   initial_board: |
      GBB/1.0
      size 4 4
      cell 0 1 Azul 0 Negro 0 Rojo 0 Verde 1
