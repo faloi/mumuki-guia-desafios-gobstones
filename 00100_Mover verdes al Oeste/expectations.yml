@@ -1,0 +1,3 @@
+expectations:
+- binding: MoverVerdesAlOeste
+  inspection: HasWhile
